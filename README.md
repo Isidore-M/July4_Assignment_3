@@ -27,6 +27,15 @@ This project aims to help home cooks, foodies, and curious developers learn abou
 
 Clone the repository and install dependencies:
 
+
+## Usage
+
+🚀 Usage
+
+Once installed, here’s how to use the project:
+npm run dev
+http://localhost:3000
+
 ## Contributing
 🤝 We welcome contributions of all kinds!
 
