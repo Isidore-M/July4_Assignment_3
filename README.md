@@ -26,8 +26,7 @@ This project aims to help home cooks, foodies, and curious developers learn abou
 ## Installation
 
 Clone the repository and install dependencies:
-
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ## Usage
 
 🚀 Usage
