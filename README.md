@@ -47,7 +47,9 @@ Just enter the ingredients you have on hand, and find meals you can make right a
 •	Node.js (backend, if applicable)
 •	Express (backend, if applicable)
 •	MongoDB or Firebase (database)
-•	Tools:
+
+
+Tools:
 •	Git & GitHub
 •	VS Code
 •	npm / yarn
