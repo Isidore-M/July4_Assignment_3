@@ -41,7 +41,7 @@ Just enter the ingredients you have on hand, and find meals you can make right a
 
 🛠️ Technologies Used
 
-•	Languages: JavaScript, HTML, CSS
+- Languages: JavaScript, HTML, CSS
 •	Frameworks/Libraries:
 •	React
 •	Node.js (backend, if applicable)
@@ -49,7 +49,7 @@ Just enter the ingredients you have on hand, and find meals you can make right a
 •	MongoDB or Firebase (database)
 
 
-Tools:
+- Tools:
 •	Git & GitHub
 •	VS Code
 •	npm / yarn
