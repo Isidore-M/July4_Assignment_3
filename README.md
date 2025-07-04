@@ -1,5 +1,5 @@
 # 🥗 Recipe Finder
-
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdtNGF1aHh3MDd1bG1zaGdpbHM5eW04dHFjamJ6N3Y1ajZnMTVqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N23cG6apipMmQ/giphy.gif))
 ---
 
 ## 📖 Description
