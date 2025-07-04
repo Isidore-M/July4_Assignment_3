@@ -14,7 +14,7 @@ Just enter the ingredients you have on hand, and find meals you can make right a
 ---
 
 ## 📚 Table of Contents
-##table-of-contents
+## table-content
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
